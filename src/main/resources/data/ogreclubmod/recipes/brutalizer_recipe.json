@@ -1,0 +1,27 @@
+{
+  "type": "crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#B#",
+    "#C#",
+    "BDB"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:pointed_dripstone"
+    },
+    "B": {
+      "item": "minecraft:stone"
+    },
+    "C": {
+      "item": "minecraft:oak_log"
+    },
+    "D": {
+      "item": "minecraft:bamboo_block"
+    }
+  },
+  "result": {
+    "item": "ogreclubmob:brutalizer"
+  },
+  "show_notification": true
+}
